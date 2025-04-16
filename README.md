@@ -31,11 +31,11 @@ Welcome to my GitHub! I’m glad you stopped by. Here’s a quick snapshot of wh
 
 *(I’ll be adding more details soon—stay tuned!)*
 
-- **[Project Placeholder #1]()**  
-  _Description coming soon!_
+- **[[US-Dollar-to-Singapore-Dollar-Exchange-Rate-Prediction #1](https://github.com/Haonan-100/US-Dollar-to-Singapore-Dollar-Exchange-Rate-Prediction)]**  
 
-- **[Project Placeholder #2]()**  
-  _Description coming soon!_
+- **[[NVIDIA-Stock-Analysis #2](https://github.com/Haonan-100/NVIDIA-Stock-Analysis)]**  
+
+
 
 ---
 
