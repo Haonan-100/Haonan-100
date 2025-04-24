@@ -31,11 +31,11 @@ Welcome to my GitHub! I’m glad you stopped by. Here’s a quick snapshot of wh
 
 *(I’ll be adding more details soon—stay tuned!)*
 
-- **[[SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics #3](https://github.com/Haonan-100/SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics)]**
+- **[[SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics](https://github.com/Haonan-100/SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics)]**
 
-- **[[US-Dollar-to-Singapore-Dollar-Exchange-Rate-Prediction #1](https://github.com/Haonan-100/US-Dollar-to-Singapore-Dollar-Exchange-Rate-Prediction)]**
+- **[[US-Dollar-to-Singapore-Dollar-Exchange-Rate-Prediction](https://github.com/Haonan-100/US-Dollar-to-Singapore-Dollar-Exchange-Rate-Prediction)]**
 
-- **[[NVIDIA-Stock-Analysis #2](https://github.com/Haonan-100/NVIDIA-Stock-Analysis)]**
+- **[[NVIDIA-Stock-Analysis](https://github.com/Haonan-100/NVIDIA-Stock-Analysis)]**
 
 
 ---
