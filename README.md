@@ -29,7 +29,9 @@ Welcome to my GitHub! I’m glad you stopped by. Here’s a quick snapshot of wh
 
 ## Recent Projects
 
-*(I’ll be adding more details soon—stay tuned!)*
+*(I’ll be adding more details soon!)*
+
+- **[[Brazilian-E-commerce-KPI-Dashboard](https://github.com/Haonan-100/Brazilian-E-commerce-KPI-Dashboard-)]**  
 
 - **[[SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics](https://github.com/Haonan-100/SF311-Citizen-Service-Requests-Local-Data-Pipeline-and-Analytics)]**
 
